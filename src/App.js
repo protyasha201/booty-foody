@@ -18,7 +18,7 @@ function App() {
 function Navbar(props) {
   let text = {
     about: [
-      "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sint deleniti Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sint deleniti, something behind though."
+      "Please lLorem ipsum dolor sit amet consectetur, adipisicing elit. Sint deleniti Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sint deleniti, something behind though."
     ]
   };
   return (
